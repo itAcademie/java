@@ -8,7 +8,8 @@
 package org.itacademie.java.java8;
 
 class packageInfo {
-	public static void main(String args[]) {
+	public static void main(String args[]) 
+	{
 		System.out.println("Java 8 Features");
 		System.out.println("1.Lamda Expression ->");
 		System.out.println("2.Method reference ::");
